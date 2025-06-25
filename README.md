@@ -111,45 +111,45 @@ Before Reducing Features:
 
   •	Overall Accuracy: 77%
   
-  •	Overall F1 Score:73.4%
+  •	Overall F1 Score:71.3%
   
   •	Accuracy of classes:
 
-    1.	Neutral:92%
+    1.	Neutral:85%
       
-    3.	Calm: 76%
+    3.	Calm: 78%
        
-    5.	Happy: 62%
+    5.	Happy: 67%
        
-    7.	Sad: 75%
+    7.	Sad: 76%
        
-    9.	Angry: 76%
+    9.	Angry: 78%
         
-    11.	Fearful:82%
+    11.	Fearful:86%
         
-    13.	Disgust:70%
+    13.	Disgust:68%
         
-    15.	Surprised:76%
+    15.	Surprised:80%
     
 After Reducing Features:
 
-  •	Overall Accuracy: 82%
+  •	Overall Accuracy: 83%
   
-  •	Overall F1 Score:81.7%
+  •	Overall F1 Score:82.3%
   
   •	Accuracy of classes:
 
-    1.	Calm: 82%
+    1.	Calm: 89%
        
-    3.	Happy: 85%
+    3.	Happy: 82%
        
-    5.	Sad: 78%
+    5.	Sad: 76%
        
-    7.	Angry: 82%
+    7.	Angry: 79%
        
-    9.	Fearful:85%
+    9.	Fearful:84%
         
-    11.	Disgust:81%
+    11.	Disgust:82%
       
 
 
