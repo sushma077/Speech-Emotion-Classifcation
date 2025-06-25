@@ -117,19 +117,19 @@ Before Reducing Features:
 
     1.	Neutral:85%
       
-    3.	Calm: 78%
+    2.	Calm: 78%
        
-    5.	Happy: 67%
+    3.	Happy: 67%
        
-    7.	Sad: 76%
+    4.	Sad: 76%
        
-    9.	Angry: 78%
+    5.	Angry: 78%
         
-    11.	Fearful:86%
+    6.	Fearful:86%
         
-    13.	Disgust:68%
+    7.	Disgust:68%
         
-    15.	Surprised:80%
+    8.	Surprised:80%
     
 After Reducing Features:
 
@@ -141,15 +141,15 @@ After Reducing Features:
 
     1.	Calm: 89%
        
-    3.	Happy: 82%
+    2.	Happy: 82%
        
-    5.	Sad: 76%
+    3.	Sad: 76%
        
-    7.	Angry: 79%
+    4.	Angry: 79%
        
-    9.	Fearful:84%
+    5.	Fearful:84%
         
-    11.	Disgust:82%
+    6.	Disgust:82%
       
 
 
